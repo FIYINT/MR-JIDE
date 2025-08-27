@@ -1,6 +1,10 @@
 # BIO
 This is my Portfolio
+#adding a project path
 
+
+#adding an image
+![this is screnshot of my oil dashboard]()
 
 
 #CONTACT DETAILS  

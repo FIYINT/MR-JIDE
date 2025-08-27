@@ -4,7 +4,7 @@ This is my Portfolio
 
 
 #adding an image
-![this is screnshot of my oil dashboard]()
+![this is screnshot of my oil dashboard](docs/Images/oil image.PNG)
 
 
 #CONTACT DETAILS  

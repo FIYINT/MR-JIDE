@@ -20,14 +20,32 @@ Passionate about storytelling through data, I bring a unique perspective shaped 
 
 
 
-Data Skills Traning
+#💻 Digital Marketing Experience
 
-[Educating the next generation of data analyst](https://drive.google.com/drive/folders/118ysSHEGshXiSBb8GO2qSOW6_gv4ODR7)
+Tools & Platforms: Google Analytics, Google Ads, Facebook Business Manager, Mailchimp, SEMrush
 
+Core Skills: SEO, PPC, Email marketing, Content strategy, A/B Testing, Campaign tracking
+
+Analytics & Reporting: Campaign performance reporting using data visualization tools
+
+Growth Strategies: Conversion optimization, audience segmentation, lead generation
+
+Cross-Channel Integration: Coordinating marketing efforts across social media, email, and web
+
+
+
+🎙️ Radio Presenting & Media Communication
+
+Experience: Over (X years) of experience as a radio presenter for (Station Name)
+
+Skills: Public speaking, scripting, voiceover, content scheduling, audience engagement
+
+Notable Work: Hosted live shows, interviewed guests, produced segments covering tech, culture, and trends
+
+Transferable Strengths: Clear communicator, strong presence, adaptable under pressure, excellent storytelling
 ![Pictures of classes](docs/assets/IMG-20250227-WA0031.jpg)
 ![pictures of class](docs/assets/IMG-20250227-WA0033.jpg)
-![Pictures](docs/assets/ASH NATIVE.jpeg)
-![pictures](docs/assets/ASH Native 2.jpeg)
+
   
 
 # CONTACT DETAILS

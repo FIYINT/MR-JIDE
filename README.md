@@ -1,5 +1,5 @@
 # BIO:
-A dynamic and results-driven Data Analyst with a multidisciplinary background in Digital Marketing and Radio Presenting, combining analytical rigor with creative communication skills. With over 2years of experience working with data-driven insights to solve business challenges, I specialize in transforming raw data into actionable strategies that enhance performance, optimize marketing campaigns, and support informed decision-making.
+A dynamic and results-driven Data Analyst with a multidisciplinary background in Digital Marketing and Radio Presenting, combining analytical rigor with creative communication skills. With over two years of experience working with data-driven insights to solve business challenges, I specialize in transforming raw data into actionable strategies that enhance performance, optimize marketing campaigns, and support informed decision-making.
 
 Passionate about storytelling through data, I bring a unique perspective shaped by my experience in front-facing media and digital content creation, enabling me to effectively bridge the gap between data science, marketing, and audience engagement.
 
@@ -10,7 +10,7 @@ Passionate about storytelling through data, I bring a unique perspective shaped 
 3. Communication skills; Data Storytelling, Reporting and Presentation(using tools like Canva, Powerpoint Power Bi AND Excel)
 4. ‌Field: health, security, Finance and sales performance
 
-💻 Digital Marketing Experience
+5. 💻 Digital Marketing Experience
 
 Tools & Platforms: Google Analytics, Google Ads, Facebook Business Manager, Mailchimp, SEMrush
 
@@ -24,7 +24,7 @@ Cross-Channel Integration: Coordinating marketing efforts across social media, e
 
 
 
-🎙️ Radio Presenting & Media Communication
+6. 🎙️ Radio Presenting & Media Communication
 
 Experience: Over (X years) of experience as a radio presenter for (Station Name)
 

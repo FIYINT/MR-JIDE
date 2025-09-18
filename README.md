@@ -49,4 +49,4 @@ Transferable Strengths: Clear communicator, strong presence, adaptable under pre
 # CONTACT DETAILS
 |[Email me](mailto:jideanjous246@gmail.com)
 ||[Connect on linkedIn](https://www.linkedin.com/in/anjous-babajide-970703161/)
-||Phone No: +234-8089207985
+||Phone No:+234-8089207985
